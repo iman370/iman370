@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m @iman370
-🧠 I'm a final year Computer Science student : )
+🧠 I'm a Software Engineer / Solutions Architect : )
 
 👀 I’m interested in Software Development and AI/ML!
 
@@ -7,4 +7,6 @@
 
 👩‍💻 I love to learn new things and code them too!
 
-✨ I'm not coding as much recently because I'm focusing on University
+✨ I love to focus on coding projects in my spare time but I'm also very heavily into YA fantasy books.
+
+Lets connect!
